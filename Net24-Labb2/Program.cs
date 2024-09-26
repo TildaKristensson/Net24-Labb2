@@ -1,2 +1,4 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿var direction = Directory.GetCurrentDirectory();
+var text = File.ReadAllText(direction + "\\Levels\\Level1.txt");
+Console.Write(text);
+
