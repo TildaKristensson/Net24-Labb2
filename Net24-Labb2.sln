@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35219.272
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Net24-Labb2", "Net24-Labb2\Net24-Labb2.csproj", "{2179AAB1-53CA-4FE9-96B1-4EDAF8F50D91}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2179AAB1-53CA-4FE9-96B1-4EDAF8F50D91}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2179AAB1-53CA-4FE9-96B1-4EDAF8F50D91}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2179AAB1-53CA-4FE9-96B1-4EDAF8F50D91}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2179AAB1-53CA-4FE9-96B1-4EDAF8F50D91}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {88DD433D-AB12-4DF0-B720-3060C0D87D5A}
+	EndGlobalSection
+EndGlobal
