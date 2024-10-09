@@ -10,7 +10,7 @@
 
   <ItemGroup>
     <None Update="Levels\Level1.txt">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </None>
   </ItemGroup>
 

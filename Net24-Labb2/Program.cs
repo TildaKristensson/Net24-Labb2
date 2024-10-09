@@ -1,4 +1,7 @@
-﻿var direction = Directory.GetCurrentDirectory();
-var text = File.ReadAllText(direction + "\\Levels\\Level1.txt");
-Console.Write(text);
+﻿
+using System.ComponentModel;
+
+var gameLoop = new GameLoop();
+gameLoop.RunGame();
+
 
